@@ -38,5 +38,12 @@
   ],
   "dependencies": {
     "assemble-less": "~0.4.6"
-  }
+  },
+  "contributors": [
+    {
+      "name": "Brian Woodward",
+      "email": "brian.woodward@gmail.com",
+      "url": "https://github.com/doowb"
+    }
+  ]
 }
